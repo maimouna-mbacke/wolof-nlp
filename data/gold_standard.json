@@ -1,0 +1,5490 @@
+[
+  {
+    "text": "Dafa baax.",
+    "tokens": [
+      "dafa",
+      "baax",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dem naa.",
+    "tokens": [
+      "dem",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Moo ko def.",
+    "tokens": [
+      "moo",
+      "ko",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dinaa dem.",
+    "tokens": [
+      "di",
+      "na",
+      "a",
+      "dem",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Du baax.",
+    "tokens": [
+      "du",
+      "baax",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dafay lekk.",
+    "tokens": [
+      "da",
+      "fa",
+      "y",
+      "lekk",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Damay dem.",
+    "tokens": [
+      "da",
+      "ma",
+      "y",
+      "dem",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Mungi fi.",
+    "tokens": [
+      "mu",
+      "ngi",
+      "fi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Nanga def?",
+    "tokens": [
+      "na",
+      "nga",
+      "def",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Mangi fi rekk.",
+    "tokens": [
+      "ma",
+      "ngi",
+      "fi",
+      "rekk",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Woon na.",
+    "tokens": [
+      "woon",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Doon na lekk.",
+    "tokens": [
+      "doon",
+      "na",
+      "lekk",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Moo ngi ñëw.",
+    "tokens": [
+      "moo",
+      "ngi",
+      "ñëw",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dangay wax.",
+    "tokens": [
+      "da",
+      "nga",
+      "y",
+      "wax",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dañuy dem.",
+    "tokens": [
+      "da",
+      "ñu",
+      "y",
+      "dem",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lañuy def.",
+    "tokens": [
+      "la",
+      "ñu",
+      "y",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Yaa ko def.",
+    "tokens": [
+      "yaa",
+      "ko",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Noon nañu.",
+    "tokens": [
+      "noon",
+      "na",
+      "ñu",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Yeena ko def.",
+    "tokens": [
+      "yeena",
+      "ko",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ñoo ko def.",
+    "tokens": [
+      "ñoo",
+      "ko",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Xale bi dem na.",
+    "tokens": [
+      "xale",
+      "bi",
+      "dem",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Góor gi baax na.",
+    "tokens": [
+      "góor",
+      "gi",
+      "baax",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jigéen ji rafet na.",
+    "tokens": [
+      "jigéen",
+      "ji",
+      "rafet",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ndox mi sedd na.",
+    "tokens": [
+      "ndox",
+      "mi",
+      "sedd",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Kër gi rey na.",
+    "tokens": [
+      "kër",
+      "gi",
+      "rey",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Garab gi gudd na.",
+    "tokens": [
+      "garab",
+      "gi",
+      "gudd",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Fas wi gaaw na.",
+    "tokens": [
+      "fas",
+      "wi",
+      "gaaw",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Mburu mi neex na.",
+    "tokens": [
+      "mburu",
+      "mi",
+      "neex",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ceeb bi tàng na.",
+    "tokens": [
+      "ceeb",
+      "bi",
+      "tàng",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Téere bi baax na.",
+    "tokens": [
+      "téere",
+      "bi",
+      "baax",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Nit ki dem na.",
+    "tokens": [
+      "nit",
+      "ki",
+      "dem",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Liggéey bi yàgg na.",
+    "tokens": [
+      "liggéey",
+      "bi",
+      "yàgg",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Suuf si baax na.",
+    "tokens": [
+      "suuf",
+      "si",
+      "baax",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Xale yi dem nañu.",
+    "tokens": [
+      "xale",
+      "yi",
+      "dem",
+      "na",
+      "ñu",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jigéen ñi ñëw nañu.",
+    "tokens": [
+      "jigéen",
+      "ñi",
+      "ñëw",
+      "na",
+      "ñu",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Gis naa ko.",
+    "tokens": [
+      "gis",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jox naa la ko.",
+    "tokens": [
+      "jox",
+      "na",
+      "a",
+      "la",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Wax naa ko.",
+    "tokens": [
+      "wax",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Bëgg naa la.",
+    "tokens": [
+      "bëgg",
+      "na",
+      "a",
+      "la",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Xam naa ko.",
+    "tokens": [
+      "xam",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Def naa ko.",
+    "tokens": [
+      "def",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jënd naa ko.",
+    "tokens": [
+      "jënd",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "May naa la ko.",
+    "tokens": [
+      "may",
+      "na",
+      "a",
+      "la",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jàng naa ko.",
+    "tokens": [
+      "jàng",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Bind naa ko.",
+    "tokens": [
+      "bind",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Moo ma ko jox.",
+    "tokens": [
+      "moo",
+      "ma",
+      "ko",
+      "jox",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dinaa ko def.",
+    "tokens": [
+      "di",
+      "na",
+      "a",
+      "ko",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Duma ko def.",
+    "tokens": [
+      "duma",
+      "ko",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dafa koy def.",
+    "tokens": [
+      "dafa",
+      "koy",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Mungi koy def.",
+    "tokens": [
+      "mu",
+      "ngi",
+      "koy",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lan moo xew?",
+    "tokens": [
+      "lan",
+      "moo",
+      "xew",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Kan moo ko def?",
+    "tokens": [
+      "kan",
+      "moo",
+      "ko",
+      "def",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Fu mu nekk?",
+    "tokens": [
+      "fu",
+      "mu",
+      "nekk",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Kañ ngay dem?",
+    "tokens": [
+      "kañ",
+      "nga",
+      "y",
+      "dem",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lu tax?",
+    "tokens": [
+      "lu",
+      "tax",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Na nga def?",
+    "tokens": [
+      "na",
+      "nga",
+      "def",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ndax dëgg la?",
+    "tokens": [
+      "ndax",
+      "dëgg",
+      "la",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ana xale bi?",
+    "tokens": [
+      "ana",
+      "xale",
+      "bi",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ban kër?",
+    "tokens": [
+      "ban",
+      "kër",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ñaata lay jar?",
+    "tokens": [
+      "ñaata",
+      "lay",
+      "jar",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Nan la tudd?",
+    "tokens": [
+      "nan",
+      "la",
+      "tudd",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lane ngay def?",
+    "tokens": [
+      "lan",
+      "nga",
+      "y",
+      "def",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Kan la?",
+    "tokens": [
+      "kan",
+      "la",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Fan ngay dem?",
+    "tokens": [
+      "fan",
+      "nga",
+      "y",
+      "dem",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lu mu bëgg?",
+    "tokens": [
+      "lu",
+      "mu",
+      "bëgg",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Demul.",
+    "tokens": [
+      "demul",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Baaxul.",
+    "tokens": [
+      "baaxul",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Xawuma.",
+    "tokens": [
+      "xawu",
+      "ma",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Bëgguma ko.",
+    "tokens": [
+      "bëggu",
+      "ma",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Defuma dara.",
+    "tokens": [
+      "defu",
+      "ma",
+      "dara",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Amul ndox.",
+    "tokens": [
+      "amul",
+      "ndox",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Gisuma ko.",
+    "tokens": [
+      "gisu",
+      "ma",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Du ñëw.",
+    "tokens": [
+      "du",
+      "ñëw",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dootu ko def.",
+    "tokens": [
+      "dootu",
+      "ko",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dootuñu dem.",
+    "tokens": [
+      "dootu",
+      "ñu",
+      "dem",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Nekkul fi.",
+    "tokens": [
+      "nekkul",
+      "fi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Amuma xaalis.",
+    "tokens": [
+      "amu",
+      "ma",
+      "xaalis",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ñëwul.",
+    "tokens": [
+      "ñëwul",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Waxul dara.",
+    "tokens": [
+      "waxul",
+      "dara",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lekkulwoon.",
+    "tokens": [
+      "lekkulwoon",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dafay soppiku.",
+    "tokens": [
+      "da",
+      "fa",
+      "y",
+      "soppiku",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ñuy gisante.",
+    "tokens": [
+      "ñuy",
+      "gisante",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dina ko waxaat.",
+    "tokens": [
+      "di",
+      "na",
+      "ko",
+      "waxaat",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Moo ko jëndal.",
+    "tokens": [
+      "moo",
+      "ko",
+      "jëndal",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dafay bindaat.",
+    "tokens": [
+      "da",
+      "fa",
+      "y",
+      "bindaat",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dangay réetaanlo.",
+    "tokens": [
+      "da",
+      "nga",
+      "y",
+      "réetaan",
+      "lo",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Moo ngi jëllo.",
+    "tokens": [
+      "moo",
+      "ngi",
+      "jëllo",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dañuy waxante.",
+    "tokens": [
+      "da",
+      "ñu",
+      "y",
+      "waxante",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ñu ngi toogaat.",
+    "tokens": [
+      "ñu",
+      "ngi",
+      "toogaat",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dafa nekkuul.",
+    "tokens": [
+      "dafa",
+      "nekkuul",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Moo ko fattalikuloo.",
+    "tokens": [
+      "moo",
+      "ko",
+      "fattaliku",
+      "loo",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dañuy jëfandikoo.",
+    "tokens": [
+      "da",
+      "ñu",
+      "y",
+      "jëfandik",
+      "oo",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Moo ko xammeku.",
+    "tokens": [
+      "moo",
+      "ko",
+      "xammeku",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dafay raxassu.",
+    "tokens": [
+      "da",
+      "fa",
+      "y",
+      "raxassu",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Xale bi nga gis.",
+    "tokens": [
+      "xale",
+      "bi",
+      "nga",
+      "gis",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Kër gi mu toog.",
+    "tokens": [
+      "kër",
+      "gi",
+      "mu",
+      "toog",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Nit ki ma wax.",
+    "tokens": [
+      "nit",
+      "ki",
+      "ma",
+      "wax",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Téere bi jàng naa ko.",
+    "tokens": [
+      "téere",
+      "bi",
+      "jàng",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ndox mi naan naa ko.",
+    "tokens": [
+      "ndox",
+      "mi",
+      "naan",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lu mu def.",
+    "tokens": [
+      "lu",
+      "mu",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Bu baax.",
+    "tokens": [
+      "bu",
+      "baax",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ku ñëw.",
+    "tokens": [
+      "ku",
+      "ñëw",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Gu rafet.",
+    "tokens": [
+      "gu",
+      "rafet",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Nu mu waxee.",
+    "tokens": [
+      "nu",
+      "mu",
+      "waxee",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dem na te ñëw na.",
+    "tokens": [
+      "dem",
+      "na",
+      "te",
+      "ñëw",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Xale bi ak yaayam.",
+    "tokens": [
+      "xale",
+      "bi",
+      "ak",
+      "yaayam",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dem wala toog.",
+    "tokens": [
+      "dem",
+      "wala",
+      "toog",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ndax baax na?",
+    "tokens": [
+      "ndax",
+      "baax",
+      "na",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Waaye du dëgg.",
+    "tokens": [
+      "waaye",
+      "du",
+      "dëgg",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Mbaa dëgg la.",
+    "tokens": [
+      "mbaa",
+      "dëgg",
+      "la",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ba mu demee.",
+    "tokens": [
+      "ba",
+      "mu",
+      "demee",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Su ma demee.",
+    "tokens": [
+      "su",
+      "ma",
+      "demee",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Bu ñëwee.",
+    "tokens": [
+      "bu",
+      "ñëwee",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ndax dëgg, waaye...",
+    "tokens": [
+      "ndax",
+      "dëgg",
+      "waaye",
+      "..."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Nekk na ci kër gi.",
+    "tokens": [
+      "nekk",
+      "na",
+      "ci",
+      "kër",
+      "gi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dem na ca dëkk ba.",
+    "tokens": [
+      "dem",
+      "na",
+      "ca",
+      "dëkk",
+      "ba",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Fi la nekk.",
+    "tokens": [
+      "fi",
+      "la",
+      "nekk",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Fan nga ko gisée.",
+    "tokens": [
+      "fan",
+      "nga",
+      "ko",
+      "gisée",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci biir kër gi.",
+    "tokens": [
+      "ci",
+      "biir",
+      "kër",
+      "gi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ca kanam.",
+    "tokens": [
+      "ca",
+      "kanam",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci ginnaaw.",
+    "tokens": [
+      "ci",
+      "ginnaaw",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci suuf.",
+    "tokens": [
+      "ci",
+      "suuf",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci kaw.",
+    "tokens": [
+      "ci",
+      "kaw",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci digg.",
+    "tokens": [
+      "ci",
+      "digg",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sama kër.",
+    "tokens": [
+      "sama",
+      "kër",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sa doom.",
+    "tokens": [
+      "sa",
+      "doom",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sunu réew.",
+    "tokens": [
+      "sunu",
+      "réew",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Seen liggéey.",
+    "tokens": [
+      "seen",
+      "liggéey",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Xaritam dem na.",
+    "tokens": [
+      "xaritam",
+      "dem",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Mbokkam ñëw na.",
+    "tokens": [
+      "mbokkam",
+      "ñëw",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sama yaay.",
+    "tokens": [
+      "sama",
+      "yaay",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sa baay.",
+    "tokens": [
+      "sa",
+      "baay",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sunu waa kër.",
+    "tokens": [
+      "sunu",
+      "waa",
+      "kër",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Seen njaboot.",
+    "tokens": [
+      "seen",
+      "njaboot",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Démb laa ko gis.",
+    "tokens": [
+      "démb",
+      "laa",
+      "ko",
+      "gis",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Tey lañuy dem.",
+    "tokens": [
+      "tey",
+      "la",
+      "ñu",
+      "y",
+      "dem",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Suba dinaa ñëw.",
+    "tokens": [
+      "suba",
+      "di",
+      "na",
+      "a",
+      "ñëw",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci ngoon gi.",
+    "tokens": [
+      "ci",
+      "ngoon",
+      "gi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Bés bu ñëwée.",
+    "tokens": [
+      "bés",
+      "bu",
+      "ñëwée",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci suba si.",
+    "tokens": [
+      "ci",
+      "suba",
+      "si",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci guddi gi.",
+    "tokens": [
+      "ci",
+      "guddi",
+      "gi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci at mi.",
+    "tokens": [
+      "ci",
+      "at",
+      "mi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci weer wi.",
+    "tokens": [
+      "ci",
+      "weer",
+      "wi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Fàwwu.",
+    "tokens": [
+      "fàwwu",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Am na ñaari doom.",
+    "tokens": [
+      "am",
+      "na",
+      "ñaari",
+      "doom",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ñetti at la.",
+    "tokens": [
+      "ñetti",
+      "at",
+      "la",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Fukki at.",
+    "tokens": [
+      "fukk",
+      "i",
+      "at",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Juróomi bés.",
+    "tokens": [
+      "juróom",
+      "i",
+      "bés",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ñeent la.",
+    "tokens": [
+      "ñeent",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Benn nit.",
+    "tokens": [
+      "benn",
+      "nit",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ñaari xarit.",
+    "tokens": [
+      "ñaari",
+      "xarit",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Teemeeri dërëm.",
+    "tokens": [
+      "teemeeri",
+      "dërëm",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Junni at.",
+    "tokens": [
+      "junni",
+      "at",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Fukk ak juróom.",
+    "tokens": [
+      "fukk",
+      "ak",
+      "juróom",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Xale yi dañuy fo ci kër gi.",
+    "tokens": [
+      "xale",
+      "yi",
+      "da",
+      "ñu",
+      "y",
+      "fo",
+      "ci",
+      "kër",
+      "gi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jigéen ñi ñëw nañu démb.",
+    "tokens": [
+      "jigéen",
+      "ñi",
+      "ñëw",
+      "na",
+      "ñu",
+      "démb",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Góor ñi dem nañu ca tool ba.",
+    "tokens": [
+      "góor",
+      "ñi",
+      "dem",
+      "na",
+      "ñu",
+      "ca",
+      "tool",
+      "ba",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ñu ngi toog ci suuf si.",
+    "tokens": [
+      "ñu",
+      "ngi",
+      "toog",
+      "ci",
+      "suuf",
+      "si",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ma ngi jàng wolof.",
+    "tokens": [
+      "ma",
+      "ngi",
+      "jàng",
+      "wolof",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dafa am lu mu war a def.",
+    "tokens": [
+      "dafa",
+      "am",
+      "lu",
+      "mu",
+      "war",
+      "a",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Moo gën a baax.",
+    "tokens": [
+      "moo",
+      "gën",
+      "a",
+      "baax",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lan moo tax mu mer?",
+    "tokens": [
+      "lan",
+      "moo",
+      "tax",
+      "mu",
+      "mer",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Su ma amee xaalis.",
+    "tokens": [
+      "su",
+      "ma",
+      "amee",
+      "xaalis",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ba tey ji.",
+    "tokens": [
+      "ba",
+      "tey",
+      "ji",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jàmm nga am.",
+    "tokens": [
+      "jàmm",
+      "nga",
+      "am",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jërëjëf.",
+    "tokens": [
+      "jërëjëf",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ba beneen.",
+    "tokens": [
+      "ba",
+      "beneen",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ndank-ndank.",
+    "tokens": [
+      "ndank-ndank",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Yàlla na la yàlla.",
+    "tokens": [
+      "yàlla",
+      "na",
+      "la",
+      "yàlla",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Baal ma.",
+    "tokens": [
+      "baal",
+      "ma",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Mangi tudd Mamadou.",
+    "tokens": [
+      "ma",
+      "ngi",
+      "tudd",
+      "mamadou",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "bul ko door.",
+    "tokens": [
+      "bul",
+      "ko",
+      "door",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dégg ngeen?",
+    "tokens": [
+      "dégg",
+      "ngeen",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Waw, dégg naa.",
+    "tokens": [
+      "waw",
+      "dégg",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Juróom-benn.",
+    "tokens": [
+      "juróom-benn",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Juróom-ñaar.",
+    "tokens": [
+      "juróom-ñaar",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Juróom-ñett.",
+    "tokens": [
+      "juróom-ñett",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Juróom-ñeent.",
+    "tokens": [
+      "juróom-ñeent",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Fukk ak benn.",
+    "tokens": [
+      "fukk",
+      "ak",
+      "benn",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Fukk ak ñaar.",
+    "tokens": [
+      "fukk",
+      "ak",
+      "ñaar",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ñaar-fukk.",
+    "tokens": [
+      "ñaar-fukk",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ñett-fukk.",
+    "tokens": [
+      "ñett-fukk",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ñeent-fukk.",
+    "tokens": [
+      "ñeent-fukk",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Juróom-fukk.",
+    "tokens": [
+      "juróom-fukk",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Xam-xam bi.",
+    "tokens": [
+      "xam-xam",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Jafe-jafe bi.",
+    "tokens": [
+      "jafe-jafe",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Benn-benn yi.",
+    "tokens": [
+      "benn-benn",
+      "yi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Tuuti-tuuti rek.",
+    "tokens": [
+      "tuuti-tuuti",
+      "rek",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Lëndam-lëndam yi.",
+    "tokens": [
+      "lëndam-lëndam",
+      "yi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Séw-séw.",
+    "tokens": [
+      "séw-séw",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Mën-mën.",
+    "tokens": [
+      "mën-mën",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "neex-neex.",
+    "tokens": [
+      "neex-neex",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Xóot-xóot.",
+    "tokens": [
+      "xóot-xóot",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Táng-táng.",
+    "tokens": [
+      "táng-táng",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Sori-Sori.",
+    "tokens": [
+      "sori-sori",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Yàgg-yàgg.",
+    "tokens": [
+      "yàgg-yàgg",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Bëgg-bëgg.",
+    "tokens": [
+      "bëgg-bëgg",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Rafet-rafet.",
+    "tokens": [
+      "rafet-rafet",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Am-am.",
+    "tokens": [
+      "am-am",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Fukku-fukku.",
+    "tokens": [
+      "fukku-fukku",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Rey-rey.",
+    "tokens": [
+      "rey-rey",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ndaw-ndaw.",
+    "tokens": [
+      "ndaw-ndaw",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Baax-baax.",
+    "tokens": [
+      "baax-baax",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Bon-bon.",
+    "tokens": [
+      "bon-bon",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Jàngalekat bi.",
+    "tokens": [
+      "jàngalekat",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Bindkat bi.",
+    "tokens": [
+      "bindkat",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Defkat bi.",
+    "tokens": [
+      "defkat",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Liggéeykat bi.",
+    "tokens": [
+      "liggéeykat",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ñawkat bi.",
+    "tokens": [
+      "ñawkat",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Waxkat bi.",
+    "tokens": [
+      "waxkat",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Jàngkat bi.",
+    "tokens": [
+      "jàngkat",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Doxkat bi.",
+    "tokens": [
+      "doxkat",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Footkat bi.",
+    "tokens": [
+      "footkat",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Nduggkat bi.",
+    "tokens": [
+      "nduggkat",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ci-kanam.",
+    "tokens": [
+      "ci-kanam",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ci-ginnaaw.",
+    "tokens": [
+      "ci-ginnaaw",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ci-biir.",
+    "tokens": [
+      "ci-biir",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ci-kaw.",
+    "tokens": [
+      "ci-kaw",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ci-suuf.",
+    "tokens": [
+      "ci-suuf",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Am na juróom-benn mak.",
+    "tokens": [
+      "am",
+      "na",
+      "juróom-benn",
+      "mak",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Xam-xam dafa am solo.",
+    "tokens": [
+      "xam-xam",
+      "dafa",
+      "am",
+      "solo",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Jàngalekat bi dafa jàngal xale yi.",
+    "tokens": [
+      "jàngalekat",
+      "bi",
+      "dafa",
+      "jàngal",
+      "xale",
+      "yi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ci juróom-ñaari at.",
+    "tokens": [
+      "ci",
+      "juróom-ñaari",
+      "at",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ñaar-fukk ak juróom.",
+    "tokens": [
+      "ñaar-fukk",
+      "ak",
+      "juróom",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Amul jafe-jafe.",
+    "tokens": [
+      "amul",
+      "jafe-jafe",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Mungi dox tuuti-tuuti.",
+    "tokens": [
+      "mu",
+      "ngi",
+      "dox",
+      "tuuti-tuuti",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Lolu moy am-am.",
+    "tokens": [
+      "lolu",
+      "moy",
+      "am-am",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Dafa am rey-rey.",
+    "tokens": [
+      "dafa",
+      "am",
+      "rey-rey",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ay baax-baax.",
+    "tokens": [
+      "ay",
+      "baax-baax",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Waa-dëkk bi.",
+    "tokens": [
+      "waa-dëkk",
+      "bi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Waa-kër gi.",
+    "tokens": [
+      "waa-kër",
+      "gi",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Sëriñ-daara.",
+    "tokens": [
+      "sëriñ-daara",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ndongo-daara.",
+    "tokens": [
+      "ndongo-daara",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "jaay-taar.",
+    "tokens": [
+      "jaay-taar",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Dafa  baax vraiment.",
+    "tokens": [
+      "dafa",
+      "baax",
+      "vraiment",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "C'est trop neex.",
+    "tokens": [
+      "c'est",
+      "trop",
+      "neex",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Mais dafa bon.",
+    "tokens": [
+      "mais",
+      "dafa",
+      "bon",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Parce que dafa am solo.",
+    "tokens": [
+      "parce",
+      "que",
+      "dafa",
+      "am",
+      "solo",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Je pense que baax na.",
+    "tokens": [
+      "je",
+      "pense",
+      "que",
+      "baax",
+      "na",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Wallahi c'est vrai.",
+    "tokens": [
+      "wallahi",
+      "c'est",
+      "vrai",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Dafa rafet trop.",
+    "tokens": [
+      "dafa",
+      "rafet",
+      "trop",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Toujours dafay def.",
+    "tokens": [
+      "toujours",
+      "da",
+      "fa",
+      "y",
+      "def",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Peut-être dinaa dem.",
+    "tokens": [
+      "peut-être",
+      "di",
+      "na",
+      "a",
+      "dem",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Merci lu bari.",
+    "tokens": [
+      "merci",
+      "lu",
+      "bari",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Hier gisna ko.",
+    "tokens": [
+      "hier",
+      "gis",
+      "na",
+      "ko",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "C'est ça key.",
+    "tokens": [
+      "c'est",
+      "ça",
+      "key",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "L'histoire dafa neex.",
+    "tokens": [
+      "l'histoire",
+      "dafa",
+      "neex",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "D'accord, dinaa ko def.",
+    "tokens": [
+      "d'accord",
+      "di",
+      "na",
+      "a",
+      "ko",
+      "def",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "J'adore série bi.",
+    "tokens": [
+      "j'adore",
+      "série",
+      "bi",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Il est très baax.",
+    "tokens": [
+      "il",
+      "est",
+      "très",
+      "baax",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Elle est rafet.",
+    "tokens": [
+      "elle",
+      "est",
+      "rafet",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "On va y aller suba.",
+    "tokens": [
+      "on",
+      "va",
+      "y",
+      "aller",
+      "suba",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Ok dina ko fattaliku.",
+    "tokens": [
+      "ok",
+      "di",
+      "na",
+      "ko",
+      "fattaliku",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Gis nga ko, n'est ce pas?",
+    "tokens": [
+      "gis",
+      "nga",
+      "ko",
+      "?"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Mdrrr dafa neex lool!",
+    "tokens": [
+      "mdrrr",
+      "dafa",
+      "neex",
+      "lool",
+      "!"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Loool c'est vrai!",
+    "tokens": [
+      "loool",
+      "c'est",
+      "vrai",
+      "!"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Waw waw je sais.",
+    "tokens": [
+      "waw",
+      "waw",
+      "je",
+      "sais",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Ok duma ko def.",
+    "tokens": [
+      "ok",
+      "duma",
+      "ko",
+      "def",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Please jox ma ko.",
+    "tokens": [
+      "please",
+      "jox",
+      "ma",
+      "ko",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Sorry baal ma.",
+    "tokens": [
+      "sorry",
+      "baal",
+      "ma",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Thanks jërëjëf.",
+    "tokens": [
+      "thanks",
+      "jërëjëf",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Nice dafa rafet.",
+    "tokens": [
+      "nice",
+      "dafa",
+      "rafet",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Cool baax na.",
+    "tokens": [
+      "cool",
+      "baax",
+      "na",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Yes waw.",
+    "tokens": [
+      "yes",
+      "waw",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Inchallah dinaa dem.",
+    "tokens": [
+      "inchallah",
+      "di",
+      "na",
+      "a",
+      "dem",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Wallahi dëgg la.",
+    "tokens": [
+      "wallahi",
+      "dëgg",
+      "la",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Mashallah rafet na.",
+    "tokens": [
+      "mashallah",
+      "rafet",
+      "na",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Alhamdulillah baax na.",
+    "tokens": [
+      "alhamdulillah",
+      "baax",
+      "na",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Bismillah ñu tàmbalee.",
+    "tokens": [
+      "bismillah",
+      "ñu",
+      "tàmbalee",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Subhanallah!",
+    "tokens": [
+      "subhanallah",
+      "!"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Astaghfirullah.",
+    "tokens": [
+      "astaghfirullah",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Yalla nafi.",
+    "tokens": [
+      "yalla",
+      "nafi",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Barke Serigne Touba.",
+    "tokens": [
+      "barke",
+      "serigne",
+      "touba",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Ndiguël li.",
+    "tokens": [
+      "ndiguël",
+      "li",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Am na 5 néek.",
+    "tokens": [
+      "am",
+      "na",
+      "5",
+      "néek",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Ci 2024.",
+    "tokens": [
+      "ci",
+      "2024",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "10 000 FCFA.",
+    "tokens": [
+      "10",
+      "000",
+      "fcfa",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Episode 25 bi.",
+    "tokens": [
+      "episode",
+      "25",
+      "bi",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Saison 3 baax na.",
+    "tokens": [
+      "saison",
+      "3",
+      "baax",
+      "na",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "100%.",
+    "tokens": [
+      "100",
+      "%",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "3ème épisode.",
+    "tokens": [
+      "3ème",
+      "épisode",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "1er fois.",
+    "tokens": [
+      "1er",
+      "fois",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "24h/24.",
+    "tokens": [
+      "24h/24",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "7j/7.",
+    "tokens": [
+      "7j/7",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "La série dafa intéressante.",
+    "tokens": [
+      "la",
+      "série",
+      "dafa",
+      "intéressante",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Mon préféré moo di bii.",
+    "tokens": [
+      "mon",
+      "préféré",
+      "moo",
+      "di",
+      "bii",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Dafa jouer bien son rôle.",
+    "tokens": [
+      "dafa",
+      "jouer",
+      "bien",
+      "son",
+      "rôle",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Le problème c'est que dafa yàgg.",
+    "tokens": [
+      "le",
+      "problème",
+      "c'est",
+      "que",
+      "dafa",
+      "yàgg",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "J'adore cette actrice nii.",
+    "tokens": [
+      "j'adore",
+      "cette",
+      "actrice",
+      "nii",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "La fin dafa triste.",
+    "tokens": [
+      "la",
+      "fin",
+      "dafa",
+      "triste",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Le début baax na.",
+    "tokens": [
+      "le",
+      "début",
+      "baax",
+      "na",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Son personnage dafa intéressant.",
+    "tokens": [
+      "son",
+      "personnage",
+      "dafa",
+      "intéressant",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Cette scène dafa émouvant.",
+    "tokens": [
+      "cette",
+      "scène",
+      "dafa",
+      "émouvant",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "L'histoire dafa captivante.",
+    "tokens": [
+      "l'histoire",
+      "dafa",
+      "captivante",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Pourquoi muy def loolu?",
+    "tokens": [
+      "pourquoi",
+      "muy",
+      "def",
+      "loolu",
+      "?"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "C'est quoi lolu?",
+    "tokens": [
+      "c'est",
+      "quoi",
+      "lolu",
+      "?"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Comme lan?",
+    "tokens": [
+      "comme",
+      "lan",
+      "?"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Où nga nekk?",
+    "tokens": [
+      "où",
+      "nga",
+      "nekk",
+      "?"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Pour fan?",
+    "tokens": [
+      "pour",
+      "fan",
+      "?"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Qui moo ko def?",
+    "tokens": [
+      "qui",
+      "moo",
+      "ko",
+      "def",
+      "?"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Combien lay jënd?",
+    "tokens": [
+      "combien",
+      "lay",
+      "jënd",
+      "?"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Est-ce que baax na?",
+    "tokens": [
+      "est-ce",
+      "que",
+      "baax",
+      "na",
+      "?"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Tu penses que dëgg la?",
+    "tokens": [
+      "tu",
+      "penses",
+      "que",
+      "dëgg",
+      "la",
+      "?"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Il croit que dinaa dem.",
+    "tokens": [
+      "il",
+      "croit",
+      "que",
+      "di",
+      "na",
+      "a",
+      "dem",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Les deux baax na.",
+    "tokens": [
+      "les",
+      "deux",
+      "baax",
+      "na",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Karma saison 2.",
+    "tokens": [
+      "karma",
+      "saison",
+      "2",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Série Adja.",
+    "tokens": [
+      "série",
+      "adja",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Wiri Wiri épisode yi.",
+    "tokens": [
+      "wiri",
+      "wiri",
+      "épisode",
+      "yi",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Maitresse d'un homme marié.",
+    "tokens": [
+      "maitresse",
+      "d'un",
+      "homme",
+      "marié",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Marodi TV.",
+    "tokens": [
+      "marodi",
+      "tv",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "2STV.",
+    "tokens": [
+      "2stv",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "TFM.",
+    "tokens": [
+      "tfm",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "RTS.",
+    "tokens": [
+      "rts",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "SenTV.",
+    "tokens": [
+      "sentv",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Facebook laa ko gis.",
+    "tokens": [
+      "facebook",
+      "laa",
+      "ko",
+      "gis",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "WhatsApp la.",
+    "tokens": [
+      "whatsapp",
+      "la",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "YouTube bi.",
+    "tokens": [
+      "youtube",
+      "bi",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Instagram la.",
+    "tokens": [
+      "instagram",
+      "la",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "TikTok moo gën.",
+    "tokens": [
+      "tiktok",
+      "moo",
+      "gën",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Live bi baax na.",
+    "tokens": [
+      "live",
+      "bi",
+      "baax",
+      "na",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Streaming bi.",
+    "tokens": [
+      "streaming",
+      "bi",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Online la.",
+    "tokens": [
+      "online",
+      "la",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Replay bi.",
+    "tokens": [
+      "replay",
+      "bi",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Download ko.",
+    "tokens": [
+      "download",
+      "ko",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Dakar la dëkk.",
+    "tokens": [
+      "dakar",
+      "la",
+      "dëkk",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Thiès la nekk.",
+    "tokens": [
+      "thiès",
+      "la",
+      "nekk",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Saint-Louis la.",
+    "tokens": [
+      "saint-louis",
+      "la",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Mbour la dem.",
+    "tokens": [
+      "mbour",
+      "la",
+      "dem",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Touba la jëm.",
+    "tokens": [
+      "touba",
+      "la",
+      "jëm",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Kaolack la.",
+    "tokens": [
+      "kaolack",
+      "la",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Ziguinchor bi.",
+    "tokens": [
+      "ziguinchor",
+      "bi",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Sénégal bi.",
+    "tokens": [
+      "sénégal",
+      "bi",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Gambie la.",
+    "tokens": [
+      "gambie",
+      "la",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Mauritanie la.",
+    "tokens": [
+      "mauritanie",
+      "la",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Dafa baax!!!",
+    "tokens": [
+      "dafa",
+      "baax",
+      "!!!"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Lan???",
+    "tokens": [
+      "lan",
+      "???"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Waw...",
+    "tokens": [
+      "waw",
+      "..."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Déedéet!",
+    "tokens": [
+      "déedéet",
+      "!"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Baax na!!!",
+    "tokens": [
+      "baax",
+      "na",
+      "!!!"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Dëgg???",
+    "tokens": [
+      "dëgg",
+      "???"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Hmm...",
+    "tokens": [
+      "hmm",
+      "..."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Wow!",
+    "tokens": [
+      "wow",
+      "!"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Aïe!",
+    "tokens": [
+      "aïe",
+      "!"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Oh!",
+    "tokens": [
+      "oh",
+      "!"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "\"Dafa baax\" la wax.",
+    "tokens": [
+      "\"",
+      "dafa",
+      "baax",
+      "\"",
+      "la",
+      "wax",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Wax na: \"Dem naa.\"",
+    "tokens": [
+      "wax",
+      "na",
+      ":",
+      "\"",
+      "dem",
+      "na",
+      "a",
+      "\""
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "'Baax na' moo wax.",
+    "tokens": [
+      "'",
+      "baax",
+      "na",
+      "'",
+      "moo",
+      "wax",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "\"Jërëjëf\" lañu wax.",
+    "tokens": [
+      "\"",
+      "jërëjëf",
+      "\"",
+      "lañu",
+      "wax",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Mu ne: \"Waw.\"",
+    "tokens": [
+      "mu",
+      "ne",
+      ":",
+      "\"",
+      "waw",
+      "\""
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Xale bi (bu jigéen) dem na.",
+    "tokens": [
+      "xale",
+      "bi",
+      "(",
+      "bu",
+      "jigéen",
+      ")",
+      "dem",
+      "na",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Moo ko def (démb).",
+    "tokens": [
+      "moo",
+      "ko",
+      "def",
+      "(",
+      "démb",
+      ")",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "(Dëgg la).",
+    "tokens": [
+      "(",
+      "dëgg",
+      "la",
+      ")",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Am na (ñaar) doom.",
+    "tokens": [
+      "am",
+      "na",
+      "(",
+      "ñaar",
+      ")",
+      "doom",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "[Baax na].",
+    "tokens": [
+      "[",
+      "baax",
+      "na",
+      "]",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Dafa neex ❤️",
+    "tokens": [
+      "dafa",
+      "neex",
+      "❤",
+      "️"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Baax na 👍",
+    "tokens": [
+      "baax",
+      "na",
+      "👍"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Masha Allah 🤲",
+    "tokens": [
+      "masha",
+      "allah",
+      "🤲"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "😂😂😂",
+    "tokens": [
+      "😂",
+      "😂",
+      "😂"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "🔥🔥🔥",
+    "tokens": [
+      "🔥",
+      "🔥",
+      "🔥"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "❤️❤️",
+    "tokens": [
+      "❤",
+      "️",
+      "❤",
+      "️"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "👏👏👏",
+    "tokens": [
+      "👏",
+      "👏",
+      "👏"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "🙏🙏",
+    "tokens": [
+      "🙏",
+      "🙏"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "💯",
+    "tokens": [
+      "💯"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "🇸🇳",
+    "tokens": [
+      "🇸",
+      "🇳"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "@Mbacke dafa baax.",
+    "tokens": [
+      "@mbacke",
+      "dafa",
+      "baax",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "#WolofNLP",
+    "tokens": [
+      "#wolofnlp"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "#Senegal",
+    "tokens": [
+      "#senegal"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "@username wax na.",
+    "tokens": [
+      "@username",
+      "wax",
+      "na",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "#TeamSenegal",
+    "tokens": [
+      "#teamsenegal"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Waw, dëgg la.",
+    "tokens": [
+      "waw",
+      "dëgg",
+      "la",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Xale bi, bu jàng, dem na.",
+    "tokens": [
+      "xale",
+      "bi",
+      "bu",
+      "jàng",
+      "dem",
+      "na",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Tey, suba, ak démb.",
+    "tokens": [
+      "tey",
+      "suba",
+      "ak",
+      "démb",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Benn, ñaar, ñett.",
+    "tokens": [
+      "benn",
+      "ñaar",
+      "ñett",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Dem na, te ñëw na.",
+    "tokens": [
+      "dem",
+      "na",
+      "te",
+      "ñëw",
+      "na",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Ñetti doom: ñaar góor, benn jigéen.",
+    "tokens": [
+      "ñetti",
+      "doom",
+      ":",
+      "ñaar",
+      "góor",
+      "benn",
+      "jigéen",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Dafa am; waaye du lool.",
+    "tokens": [
+      "dafa",
+      "am",
+      ";",
+      "waaye",
+      "du",
+      "lool",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "1. Benn",
+    "tokens": [
+      "1",
+      "benn"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "2. Ñaar",
+    "tokens": [
+      "2",
+      "ñaar"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "A) Baax",
+    "tokens": [
+      "a",
+      ")",
+      "baax"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Xale b'a ngi dem.",
+    "tokens": [
+      "xale",
+      "b'a",
+      "ngi",
+      "dem",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Jigéen j'a ngi ñëw.",
+    "tokens": [
+      "jigéen",
+      "j'a",
+      "ngi",
+      "ñëw",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Góor g'a ngi toog.",
+    "tokens": [
+      "góor",
+      "g'a",
+      "ngi",
+      "toog",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Nit k'a ngi wax.",
+    "tokens": [
+      "nit",
+      "k'a",
+      "ngi",
+      "wax",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Ndox m'a ngi sedd.",
+    "tokens": [
+      "ndox",
+      "m'a",
+      "ngi",
+      "sedd",
+      "."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "http://example.com",
+    "tokens": [
+      "http://examplecom"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "www.wolof.com",
+    "tokens": [
+      "wwwwolofcom"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "email@example.com",
+    "tokens": [
+      "email@examplecom"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "+221 77 123 45 67",
+    "tokens": [
+      "+221",
+      "77",
+      "123",
+      "45",
+      "67"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "12:30",
+    "tokens": [
+      "12:30"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Dégg nga.",
+    "tokens": [
+      "dégg",
+      "nga",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Déggal naa.",
+    "tokens": [
+      "déggal",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dellusi naa.",
+    "tokens": [
+      "dellusi",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Door naa ko.",
+    "tokens": [
+      "door",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Duggu naa.",
+    "tokens": [
+      "duggu",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Fàtte naa ko.",
+    "tokens": [
+      "fàtte",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Fatte naa.",
+    "tokens": [
+      "fatte",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Feneen na.",
+    "tokens": [
+      "feneen",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Génn naa.",
+    "tokens": [
+      "génn",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Gëm naa ko.",
+    "tokens": [
+      "gëm",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jàppale ma.",
+    "tokens": [
+      "jàppale",
+      "ma",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jéemaat naa.",
+    "tokens": [
+      "jéemaat",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jéllaat naa ko.",
+    "tokens": [
+      "jéllaat",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jëmmal naa ko.",
+    "tokens": [
+      "jëmmal",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jublu naa.",
+    "tokens": [
+      "jublu",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lakk naa.",
+    "tokens": [
+      "lakk",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lekkal naa ko.",
+    "tokens": [
+      "lekkal",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Nangu naa ko.",
+    "tokens": [
+      "nangu",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Noppalu naa.",
+    "tokens": [
+      "noppalu",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ragal naa ko.",
+    "tokens": [
+      "ragal",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sàcc na ko.",
+    "tokens": [
+      "sàcc",
+      "na",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sànni na ko.",
+    "tokens": [
+      "sànni",
+      "na",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Séetal ma.",
+    "tokens": [
+      "séetal",
+      "ma",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Seeti naa ko.",
+    "tokens": [
+      "seeti",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sellal na.",
+    "tokens": [
+      "sellal",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sëyi naa.",
+    "tokens": [
+      "sëyi",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sikkal naa ko.",
+    "tokens": [
+      "sikkal",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sonn naa.",
+    "tokens": [
+      "sonn",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sonnal na ma.",
+    "tokens": [
+      "sonnal",
+      "na",
+      "ma",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Sulli naa ko.",
+    "tokens": [
+      "sulli",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Tëral naa ko.",
+    "tokens": [
+      "tëral",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Topp naa ko.",
+    "tokens": [
+      "topp",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ubbi naa ko.",
+    "tokens": [
+      "ubbi",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Wéy naa.",
+    "tokens": [
+      "wéy",
+      "na",
+      "a",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Woo naa ko.",
+    "tokens": [
+      "woo",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Woolu naa ko.",
+    "tokens": [
+      "woolu",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Wor naa ko.",
+    "tokens": [
+      "wor",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Yàq naa ko.",
+    "tokens": [
+      "yàq",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Yóbbu naa ko.",
+    "tokens": [
+      "yóbbu",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Yore naa ko.",
+    "tokens": [
+      "yore",
+      "na",
+      "a",
+      "ko",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Xale bi ci naka.",
+    "tokens": [
+      "xale",
+      "bi",
+      "ci",
+      "naka",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lu mu def neena.",
+    "tokens": [
+      "lu",
+      "mu",
+      "def",
+      "neena",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dama ko bëgg lool.",
+    "tokens": [
+      "dama",
+      "ko",
+      "bëgg",
+      "lool",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dinaa ko def rekk.",
+    "tokens": [
+      "di",
+      "na",
+      "a",
+      "ko",
+      "def",
+      "rekk",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Moo tax ñu dem.",
+    "tokens": [
+      "moo",
+      "tax",
+      "ñu",
+      "dem",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lu ngay def tey?",
+    "tokens": [
+      "lu",
+      "nga",
+      "y",
+      "def",
+      "tey",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Baax na lool.",
+    "tokens": [
+      "baax",
+      "na",
+      "lool",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dafa neex torop.",
+    "tokens": [
+      "dafa",
+      "neex",
+      "torop",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Amul problema.",
+    "tokens": [
+      "amul",
+      "problema",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dëgg dëgg la.",
+    "tokens": [
+      "dëgg",
+      "dëgg",
+      "la",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "C'est normal.",
+    "tokens": [
+      "c'est",
+      "normal",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Bien sûr.",
+    "tokens": [
+      "bien",
+      "sûr",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "En fait dafa baax.",
+    "tokens": [
+      "en",
+      "fait",
+      "dafa",
+      "baax",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Par contre du baax.",
+    "tokens": [
+      "par",
+      "contre",
+      "du",
+      "baax",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Dafa important lool.",
+    "tokens": [
+      "dafa",
+      "important",
+      "lool",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "C'est compliqué.",
+    "tokens": [
+      "c'est",
+      "compliqué",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Dafa difficile.",
+    "tokens": [
+      "dafa",
+      "difficile",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Très bien baax na.",
+    "tokens": [
+      "très",
+      "bien",
+      "baax",
+      "na",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Exactement dëgg la.",
+    "tokens": [
+      "exactement",
+      "dëgg",
+      "la",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Absolument waw.",
+    "tokens": [
+      "absolument",
+      "waw",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Actually dafa baax.",
+    "tokens": [
+      "actually",
+      "dafa",
+      "baax",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Really dafa neex.",
+    "tokens": [
+      "really",
+      "dafa",
+      "neex",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Obviously dëgg la.",
+    "tokens": [
+      "obviously",
+      "dëgg",
+      "la",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Seriously lool.",
+    "tokens": [
+      "seriously",
+      "lool",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Honestly waw.",
+    "tokens": [
+      "honestly",
+      "waw",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Maybe dinaa dem.",
+    "tokens": [
+      "maybe",
+      "di",
+      "na",
+      "a",
+      "dem",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Never duma ko def.",
+    "tokens": [
+      "never",
+      "duma",
+      "ko",
+      "def",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Always dafay def.",
+    "tokens": [
+      "always",
+      "da",
+      "fa",
+      "y",
+      "def",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Sometimes mëna dem.",
+    "tokens": [
+      "sometimes",
+      "mëna",
+      "dem",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Because dafa am solo.",
+    "tokens": [
+      "because",
+      "dafa",
+      "am",
+      "solo",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Teemeer ak juróom-fukk.",
+    "tokens": [
+      "teemeer",
+      "ak",
+      "juróom-fukk",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Junni ak teemeer.",
+    "tokens": [
+      "junni",
+      "ak",
+      "teemeer",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ñaar-junni.",
+    "tokens": [
+      "ñaar-junni",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Liggéey-liggéey.",
+    "tokens": [
+      "liggéey-liggéey",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Toog-toog.",
+    "tokens": [
+      "toog-toog",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Dem-dem.",
+    "tokens": [
+      "dem-dem",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Ñëw-ñëw.",
+    "tokens": [
+      "ñëw-ñëw",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Lekk-lekk.",
+    "tokens": [
+      "lekk-lekk",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Naan-naan.",
+    "tokens": [
+      "naan-naan",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Wax-wax.",
+    "tokens": [
+      "wax-wax",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Na nga def??",
+    "tokens": [
+      "na",
+      "nga",
+      "def",
+      "??"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Waaw!!",
+    "tokens": [
+      "waaw",
+      "!!"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Hmmmm...",
+    "tokens": [
+      "hmmmm",
+      "..."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Euh...",
+    "tokens": [
+      "euh",
+      "..."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Ben...",
+    "tokens": [
+      "ben",
+      "..."
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Ah bon?",
+    "tokens": [
+      "ah",
+      "bon",
+      "?"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Oh là là!",
+    "tokens": [
+      "oh",
+      "là",
+      "là",
+      "!"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Aïe aïe aïe!",
+    "tokens": [
+      "aïe",
+      "aïe",
+      "aïe",
+      "!"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "(lol)",
+    "tokens": [
+      "(",
+      "lol",
+      ")"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "[rire]",
+    "tokens": [
+      "[",
+      "rire",
+      "]"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Dafa wax ne dinaa ñëw démb.",
+    "tokens": [
+      "dafa",
+      "wax",
+      "ne",
+      "di",
+      "na",
+      "a",
+      "ñëw",
+      "démb",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Xam naa ne dafa am jom.",
+    "tokens": [
+      "xam",
+      "na",
+      "a",
+      "ne",
+      "dafa",
+      "am",
+      "jom",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Moo tax ma ne du dëgg.",
+    "tokens": [
+      "moo",
+      "tax",
+      "ma",
+      "ne",
+      "du",
+      "dëgg",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dama gëm ne dinañu dem.",
+    "tokens": [
+      "dama",
+      "gëm",
+      "ne",
+      "di",
+      "na",
+      "ñu",
+      "dem",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lu tax ngay wax loolu?",
+    "tokens": [
+      "lu",
+      "tax",
+      "nga",
+      "y",
+      "wax",
+      "loolu",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ndax xam nga fu mu nekk?",
+    "tokens": [
+      "ndax",
+      "xam",
+      "nga",
+      "fu",
+      "mu",
+      "nekk",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Bëgg naa xam kan moo ko def.",
+    "tokens": [
+      "bëgg",
+      "na",
+      "a",
+      "xam",
+      "kan",
+      "moo",
+      "ko",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ma ngi jéem a dégg.",
+    "tokens": [
+      "ma",
+      "ngi",
+      "jéem",
+      "a",
+      "dégg",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dafa war a ñëw.",
+    "tokens": [
+      "dafa",
+      "war",
+      "a",
+      "ñëw",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Mën naa ko def.",
+    "tokens": [
+      "mën",
+      "na",
+      "a",
+      "ko",
+      "def",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ku am ay yeré yu bess.",
+    "tokens": [
+      "ku",
+      "am",
+      "ay",
+      "yeré",
+      "yu",
+      "bess",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ndank-ndank mooy jàpp golo.",
+    "tokens": [
+      "ndank-ndank",
+      "mooy",
+      "jàpp",
+      "golo",
+      "."
+    ],
+    "category": "compound"
+  },
+  {
+    "text": "Jëf bu baax dafa am njëg.",
+    "tokens": [
+      "jëf",
+      "bu",
+      "baax",
+      "dafa",
+      "am",
+      "njëg",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Nit ku baax mooy dëgg.",
+    "tokens": [
+      "nit",
+      "ku",
+      "baax",
+      "mooy",
+      "dëgg",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lu yagg yépp dana fees.",
+    "tokens": [
+      "lu",
+      "yagg",
+      "yépp",
+      "dana",
+      "fees",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Loooool trop drôle!",
+    "tokens": [
+      "loooool",
+      "trop",
+      "drôle",
+      "!"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Ptdrrr 😂😂",
+    "tokens": [
+      "ptdrrr",
+      "😂",
+      "😂"
+    ],
+    "category": "punctuation"
+  },
+  {
+    "text": "Mdrrrr wax déet!",
+    "tokens": [
+      "mdrrrr",
+      "wax",
+      "déet",
+      "!"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Wallah c'est grave!",
+    "tokens": [
+      "wallah",
+      "c'est",
+      "grave",
+      "!"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Fr fr dëgg la!",
+    "tokens": [
+      "fr",
+      "fr",
+      "dëgg",
+      "la",
+      "!"
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "No cap baax na.",
+    "tokens": [
+      "no",
+      "cap",
+      "baax",
+      "na",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Lowkey dafa neex.",
+    "tokens": [
+      "lowkey",
+      "dafa",
+      "neex",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Highkey dafa rafet.",
+    "tokens": [
+      "highkey",
+      "dafa",
+      "rafet",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Ngl dafa baax.",
+    "tokens": [
+      "ngl",
+      "dafa",
+      "baax",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Tbh waw.",
+    "tokens": [
+      "tbh",
+      "waw",
+      "."
+    ],
+    "category": "code_switch"
+  },
+  {
+    "text": "Yàlla na am jamm.",
+    "tokens": [
+      "yàlla",
+      "na",
+      "am",
+      "jamm",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ñu ngi sant Yàlla.",
+    "tokens": [
+      "ñu",
+      "ngi",
+      "sant",
+      "yàlla",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Kër gi neex na lool.",
+    "tokens": [
+      "kër",
+      "gi",
+      "neex",
+      "na",
+      "lool",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Tool bi rey na.",
+    "tokens": [
+      "tool",
+      "bi",
+      "rey",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Yaay ji dafa sonnu.",
+    "tokens": [
+      "yaay",
+      "ji",
+      "dafa",
+      "sonnu",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Yàpp wi neex na.",
+    "tokens": [
+      "yàpp",
+      "wi",
+      "neex",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Jën wi tàng na.",
+    "tokens": [
+      "jën",
+      "wi",
+      "tàng",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Meew mi sedd na.",
+    "tokens": [
+      "meew",
+      "mi",
+      "sedd",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Soow mi weex na.",
+    "tokens": [
+      "soow",
+      "mi",
+      "weex",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ndaa li toj na.",
+    "tokens": [
+      "ndaa",
+      "li",
+      "toj",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci saa su ne.",
+    "tokens": [
+      "ci",
+      "saa",
+      "su",
+      "ne",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci jamono ju ànd.",
+    "tokens": [
+      "ci",
+      "jamono",
+      "ju",
+      "ànd",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ba pare.",
+    "tokens": [
+      "ba",
+      "pare",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Diggante bi.",
+    "tokens": [
+      "diggante",
+      "bi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ci diggante loolu.",
+    "tokens": [
+      "ci",
+      "diggante",
+      "loolu",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Asalaa maalekum.",
+    "tokens": [
+      "asalaa",
+      "maalekum",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Maalekum salaam.",
+    "tokens": [
+      "maalekum",
+      "salaam",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ana waa kër gi?",
+    "tokens": [
+      "ana",
+      "waa",
+      "kër",
+      "gi",
+      "?"
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ñu ngi fi.",
+    "tokens": [
+      "ñu",
+      "ngi",
+      "fi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Alhamdulillah.",
+    "tokens": [
+      "alhamdulillah",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Yàlla nañu.",
+    "tokens": [
+      "yàlla",
+      "na",
+      "ñu",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ba ci kanam.",
+    "tokens": [
+      "ba",
+      "ci",
+      "kanam",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Yénneen yoon.",
+    "tokens": [
+      "yénneen",
+      "yoon",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Folli nañu buur bi.",
+    "tokens": [
+      "folli",
+      "na",
+      "ñu",
+      "buur",
+      "bi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Tekki na lëkkalóo gi.",
+    "tokens": [
+      "tekki",
+      "na",
+      "lëkkalóo",
+      "gi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ubbiil buntu kër gi.",
+    "tokens": [
+      "ubbi",
+      "il",
+      "bunt",
+      "u",
+      "kër",
+      "gi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dafa bëgga dem Ndakaaru.",
+    "tokens": [
+      "da",
+      "fa",
+      "bëgg",
+      "a",
+      "dem",
+      "ndakaaru",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dama soxlaa nangu sa ndigël.",
+    "tokens": [
+      "da",
+      "ma",
+      "soxla",
+      "a",
+      "nangu",
+      "sa",
+      "ndigël",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Dañu bëgga jënd mburu.",
+    "tokens": [
+      "da",
+      "ñu",
+      "bëgg",
+      "a",
+      "jënd",
+      "mburu",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Juróomi xale lañu.",
+    "tokens": [
+      "juróom",
+      "i",
+      "xale",
+      "la",
+      "ñu",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ñenti nag la am.",
+    "tokens": [
+      "ñeent",
+      "i",
+      "nag",
+      "la",
+      "am",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Fukk i fan ak juróom.",
+    "tokens": [
+      "fukk",
+      "i",
+      "fan",
+      "ak",
+      "juróom",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ndigël la bu bàyyeeko ci moom.",
+    "tokens": [
+      "ndigël",
+      "la",
+      "bu",
+      "bàyyee",
+      "ko",
+      "ci",
+      "moom",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Ngëmm gu dëgër la am.",
+    "tokens": [
+      "ngëmm",
+      "gu",
+      "dëgër",
+      "la",
+      "am",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Njëkk li mu ngi ci mbind mi.",
+    "tokens": [
+      "njëkk",
+      "li",
+      "mu",
+      "ngi",
+      "ci",
+      "mbind",
+      "mi",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Lekk gi toggu na.",
+    "tokens": [
+      "lekk",
+      "gi",
+      "togg",
+      "u",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Bunt bi ubu na.",
+    "tokens": [
+      "bunt",
+      "bi",
+      "ub",
+      "u",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  },
+  {
+    "text": "Xale bi sëlmu na.",
+    "tokens": [
+      "xale",
+      "bi",
+      "sëlm",
+      "u",
+      "na",
+      "."
+    ],
+    "category": "standard"
+  }
+]
