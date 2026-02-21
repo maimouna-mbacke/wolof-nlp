@@ -88,6 +88,9 @@ Tokenizer performance on 542 annotated sentences:
 
 See [evaluation details](docs/evaluation.md).
 
+Validated against a real-world corpus of 40,102 YouTube comments from Senegalese series 
+(69.4% Wolof-French code-switching). See [corpus validation](docs/corpus-validation.md).
+
 ## Documentation
 
 - **Notebooks**
