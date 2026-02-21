@@ -35,3 +35,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Python 3.8+ support
 - Zero external dependencies for core functionality
 - Comprehensive test suite
+
+  ## [0.1.1] - 2026-02-21
+### Documentation
+- Added corpus validation reference in README
+- Corpus: 40,102 YouTube comments, 69.4% code-switching
