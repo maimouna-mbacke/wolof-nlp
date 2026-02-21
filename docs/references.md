@@ -24,6 +24,7 @@
 **Robert, Stéphane. (2024).** "Wolof: A grammatical sketch." In *Oxford Guide to Atlantic Languages.*
 - Noun class assignment strategies
 - Focus system analysis
+  
 **Diouf, Jean-Léopold. (2009).** *Grammaire du Wolof Contemporain.* Paris: L'Harmattan. (Édition revue et complétée)
 - Complete morphosyntax reference: TAM system, noun classes, verbal derivation
 - Verbal conjugation paradigms (all modalisateurs)
