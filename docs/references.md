@@ -24,7 +24,7 @@
 **Robert, Stéphane. (2024).** "Wolof: A grammatical sketch." In *Oxford Guide to Atlantic Languages.*
 - Noun class assignment strategies
 - Focus system analysis
-  
+
 **Diouf, Jean-Léopold. (2009).** *Grammaire du Wolof Contemporain.* Paris: L'Harmattan. (Édition revue et complétée)
 - Complete morphosyntax reference: TAM system, noun classes, verbal derivation
 - Verbal conjugation paradigms (all modalisateurs)
@@ -33,6 +33,19 @@
 **McLaughlin, Fiona. (1997).** "Noun classification in Wolof: When affixes are not renewed." *Studies in African Linguistics.*
 - Phonological "copy process" for class assignment
 - B-class as default for loanwords
+
+### Computational Linguistics
+
+**Dione, Cheikh M. Bamba. (2019).** "Developing Universal Dependencies for Wolof." *Proceedings of the Third Workshop on Universal Dependencies (UDW, SyntaxFest 2019),* pp. 12–23.
+- First UD treebank for Wolof
+- Formal syntactic annotation framework
+
+**Dione, Cheikh M. Bamba. (2021).** "Multilingual Dependency Parsing for Bambara, Wolof, and Yoruba." *Proceedings of the 17th International Conference on Parsing Technologies (IWPT 2021),* pp. 84–92.
+- Cross-lingual parsing for low-resource African languages
+
+**Nekoto, Wilhelmina et al. (2020).** "Participatory Research for Low-resourced Machine Translation: A Case Study in African Languages." *Findings of EMNLP 2020,* pp. 2144–2160.
+- Community-driven African NLP methodology
+- Masakhane foundational paper
 
 ### NER Resources
 
