@@ -94,9 +94,10 @@ Validated against a real-world corpus of 40,102 YouTube comments from Senegalese
 ## Documentation
 
 - **Notebooks**
-  - [01_quickstart.ipynb](notebooks/01_quickstart.ipynb) - Core functionality
-  - [02_applications.ipynb](notebooks/02_applications.ipynb) - NLP applications
-  - [03_evaluation.ipynb](notebooks/03_evaluation.ipynb) - Evaluation on gold standard
+  - [01_quickstart.ipynb](notebooks/01_quickstart.ipynb)
+  - [02_applications.ipynb](notebooks/02_applications.ipynb)
+  - [03_evaluation.ipynb](notebooks/03_evaluation.ipynb)
+- **Architecture**: [docs/architecture.md](docs/architecture.md)
 - **API Reference**: [docs/api/](docs/api/)
 - **Linguistics**: [docs/linguistics/](docs/linguistics/)
 
