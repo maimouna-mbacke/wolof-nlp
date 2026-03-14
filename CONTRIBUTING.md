@@ -39,6 +39,14 @@ Documentation in multiple languages is especially valuable:
 - Add code examples
 - Improve API documentation
 
+### 6. Native Speaker Contributions
+
+If you are a native Wolof speaker:
+- Validate tokenization on your own speech patterns
+- Add dialectal variants you use daily
+- Flag culturally inappropriate glosses
+- Contribute to gold standard annotation
+
 ## Development Setup
 
 1. Fork the repository
