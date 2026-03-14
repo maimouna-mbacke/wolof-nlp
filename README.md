@@ -132,6 +132,7 @@ MIT License - see [LICENSE](LICENSE) for details.
 
 ## Acknowledgments
 
-- Wolof linguistic resources from Ka (1994), McLaughlin, Robert
+- Wolof linguistic resources: Ka (1994), McLaughlin (1997), Robert (2024), Diouf (2009)
+- Computational linguistics: Dione (2019, 2021), Nekoto et al. (2020)
 - CLAD orthography standard
 - Senegalese YouTube corpus for gold standard data
